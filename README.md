@@ -1,4 +1,4 @@
-<p> Welcome to the Stripe <a href="https://en.wikipedia.org/wiki/MEAN_(solution_stack)"> MEAN Stack </a> Project</p>
+<p> Welcome to the <a href="https://stripe.com/">Stripe</a> <a href="https://en.wikipedia.org/wiki/MEAN_(solution_stack)"> MEAN Stack </a> Project</p>
 
 <p>The MEAN stack is intended to provide a simple fullstack javascript applications.</p>
 <p>MEAN is a set of Open Source components that together, provide an end-to-end framework for building dynamic web
@@ -16,8 +16,7 @@
 
 ## Project Introduction
 
-<p>This is a Stripe MEAN Stack project. In this project, You can create stripe customers, add cards, remove card and
-    make payment functionality. </p>
+<p>This is a Stripe MEAN Stack project. In this project, You can do stripe customers, add cards, remove card and make payment functionality. </p>
 
 ## Installation
 
